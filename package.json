@@ -1,0 +1,31 @@
+{
+  "name": "porrodolores",
+  "version": "1.0.0",
+  "author": "AmosGerhold",
+  "description": "A Node.js (pure JavaScript) client library for accessing neo4j databases with batch support.",
+  "main": "./lib/Neo4jApi.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZelmaShanahan/porrodolores.git"
+  },
+  "dependencies": {
+    "arguer": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "keywords": [
+    "neo4j",
+    "rest",
+    "api",
+    "graph",
+    "database",
+    "sit"
+  ],
+  "analyze": false,
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
